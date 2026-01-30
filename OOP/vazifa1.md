@@ -25,3 +25,7 @@ Barcha buyurtmalar ro'yxatini (barcha_buyurtmalar) tahlil qiluvchi alohida funks
     Bu funksiya jami tushumni emas, balki eng ko'p daromad keltirgan ichimlik turini aniqlasin.
 
     Masalan: Agar 3 ta Latte va 1 ta Espresso sotilgan bo'lsa, funksiya "Eng mashhur ichimlik: Latte" deb javob qaytarsin.
+
+
+VAZIFALAR:
+https://exercism.org/tracks/cpp/exercises/log-levels
